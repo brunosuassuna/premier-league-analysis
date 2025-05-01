@@ -1,4 +1,4 @@
-# ⚽ Análise de Dados da Premier League 2023-2024
+# ⚽ **Análise de Dados da Premier League 2023-2024**
 
 **Autor:** Bruno Suassuna  
 **Data:** Abril 2025  
@@ -6,13 +6,13 @@
 
 ---
 
-## 📖 Descrição
+## 📖 **Descrição**
 
-Este projeto realiza uma análise detalhada dos dados da Premier League para a temporada 2023-2024, com foco em informações sobre a classificação dos times, desempenho individual dos jogadores, gols, assistências e a correlação entre esses fatores. A análise foi realizada utilizando dados obtidos da [Football-Data.org API](https://www.football-data.org/), uma fonte confiável e completa sobre o futebol mundial.
+Este projeto realiza uma análise detalhada dos dados da Premier League para a temporada 2023-2024, com foco em informações sobre a **classificação dos times**, **desempenho individual dos jogadores**, **gols**, **assistências** e a correlação entre esses fatores. A análise foi realizada utilizando dados obtidos da [Football-Data.org API](https://www.football-data.org/), uma fonte confiável e completa sobre o futebol mundial.
 
 ---
 
-## 🎯 Objetivos
+## 🎯 **Objetivos**
 
 O principal objetivo deste projeto é explorar e analisar as seguintes métricas:
 
@@ -23,7 +23,7 @@ O principal objetivo deste projeto é explorar e analisar as seguintes métricas
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 **Tecnologias Utilizadas**
 
 - **Python** 🐍: Linguagem de programação para análise de dados.
 - **Pandas** 📊: Biblioteca para manipulação e análise de dados.
@@ -34,29 +34,30 @@ O principal objetivo deste projeto é explorar e analisar as seguintes métricas
 
 ---
 
-## 🔧 Funcionalidades
+## 🔧 **Funcionalidades**
 
-### 1. Carregamento e Análise de Dados 📥
-O código realiza o carregamento dos dados da API da Football-Data.org, incluindo a classificação da Premier League e os detalhes de jogadores. Além disso, ele apresenta as estatísticas de gols e assistências dos principais jogadores da competição.
+### 1. **Carregamento e Análise de Dados** 📥
+O código realiza o carregamento dos dados da API da Football-Data.org, incluindo a classificação da Premier League e os detalhes dos jogadores. Além disso, apresenta as estatísticas de gols e assistências dos principais jogadores da competição.
 
-### 2. Visualizações 📊
+### 2. **Visualizações** 📊
 Diversos gráficos são gerados para facilitar a visualização dos dados:
 - **Gráficos de barras** 📊 mostrando a classificação dos times e o número de vitórias.
 - **Gráficos de dispersão** 📍 para analisar a relação entre a posição dos times e a produção ofensiva.
 - **Boxplots** 📦 para ilustrar a distribuição de pontos entre os times.
 
-### 3. Análise Combinada 🔍
+### 3. **Análise Combinada** 🔍
 Foi realizada uma análise combinando a tabela de classificação dos times com as estatísticas individuais dos jogadores, permitindo uma visão mais detalhada sobre o impacto das estrelas da competição nos resultados dos times.
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 **Estrutura do Projeto**
 
 ```bash
 ├── README.md                   # Este arquivo
 ├── data_analysis.py             # Código principal para análise dos dados
 ├── requirements.txt             # Dependências do projeto
 └── .gitignore                   # Arquivos para serem ignorados pelo Git
+
 ```
 
 ---
@@ -120,6 +121,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-### 📬 Contato
-
-Se você tiver alguma dúvida ou sugestão sobre este projeto, fique à vontade para entrar em contato através do meu e-mail: [brunosuassuna.dev@gmail.com](mailto:brunosuassuna.dev@gmail.com).
+## ✉️ Contato
+- **Email:** brunosuassuna.dev@gmail.com
+- **LinkedIn:** www.linkedin.com/in/bruno-suassuna-698aa7235
